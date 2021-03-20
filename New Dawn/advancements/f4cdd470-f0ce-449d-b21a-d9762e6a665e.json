@@ -488,6 +488,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-03-20 19:09:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2017-07-04 19:44:33 +0200"
@@ -614,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-03-20 19:34:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-10-22 11:22:38 +0200"
@@ -654,6 +666,8 @@
       "minecraft:slime": "2021-02-23 16:35:18 +0100",
       "minecraft:phantom": "2021-03-04 21:30:29 +0100",
       "minecraft:zombified_piglin": "2021-03-18 11:48:02 +0100",
+      "minecraft:witch": "2021-03-20 19:48:40 +0100",
+      "minecraft:husk": "2021-03-20 19:42:37 +0100",
       "minecraft:piglin": "2021-03-18 11:49:23 +0100",
       "minecraft:enderman": "2017-10-21 20:42:49 +0200",
       "minecraft:zombie": "2017-10-21 20:43:40 +0200",
@@ -1115,6 +1129,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2021-03-19 23:30:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-03-20 19:34:00 +0100"
     },
     "done": true
   },
@@ -2176,7 +2196,8 @@
     "criteria": {
       "minecraft:cat": "2021-03-19 23:48:08 +0100",
       "minecraft:cow": "2021-03-11 12:44:18 +0100",
-      "minecraft:chicken": "2021-02-23 17:02:12 +0100"
+      "minecraft:chicken": "2021-02-23 17:02:12 +0100",
+      "minecraft:wolf": "2021-03-20 22:03:27 +0100"
     },
     "done": false
   },
@@ -2732,6 +2753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-03-20 19:34:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-03-18 12:28:29 +0100"
@@ -2939,6 +2966,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2017-10-22 22:57:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_the_recipe": "2021-03-20 18:28:30 +0100"
     },
     "done": true
   },
