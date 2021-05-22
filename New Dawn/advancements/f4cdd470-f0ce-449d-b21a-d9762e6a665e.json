@@ -2316,6 +2316,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2021-03-19 23:48:08 +0100",
+      "minecraft:turtle": "2021-05-22 16:11:57 +0200",
       "minecraft:cow": "2021-03-11 12:44:18 +0100",
       "minecraft:chicken": "2021-02-23 17:02:12 +0100",
       "minecraft:wolf": "2021-03-20 22:03:27 +0100"
