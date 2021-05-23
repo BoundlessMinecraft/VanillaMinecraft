@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-05-23 02:11:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_the_recipe": "2017-07-04 20:13:17 +0200"
@@ -509,6 +515,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2021-03-18 11:48:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-05-22 22:20:49 +0200"
     },
     "done": true
   },
@@ -1325,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-23 02:11:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-07-19 17:09:25 +0200"
@@ -1431,17 +1449,21 @@
     "criteria": {
       "minecraft:jungle_edge": "2017-10-24 17:27:42 +0200",
       "minecraft:cold_ocean": "2021-03-18 12:33:36 +0100",
+      "minecraft:snowy_mountains": "2021-05-22 21:57:01 +0200",
       "minecraft:forest": "2017-07-26 16:58:56 +0200",
       "minecraft:mountains": "2017-10-24 16:51:43 +0200",
       "minecraft:taiga": "2021-03-19 23:21:30 +0100",
       "minecraft:desert_hills": "2021-03-19 20:43:47 +0100",
       "minecraft:giant_tree_taiga": "2021-03-19 23:26:46 +0100",
       "minecraft:deep_cold_ocean": "2021-03-18 12:33:47 +0100",
+      "minecraft:snowy_tundra": "2021-05-22 21:56:29 +0200",
       "minecraft:taiga_hills": "2021-03-19 23:39:58 +0100",
       "minecraft:desert": "2017-10-24 17:16:19 +0200",
+      "minecraft:frozen_river": "2021-05-22 21:58:34 +0200",
       "minecraft:jungle": "2017-10-24 17:27:57 +0200",
       "minecraft:birch_forest": "2017-10-24 19:38:35 +0200",
       "minecraft:jungle_hills": "2021-03-19 23:30:49 +0100",
+      "minecraft:snowy_beach": "2021-05-22 21:56:26 +0200",
       "minecraft:bamboo_jungle": "2021-03-20 00:02:49 +0100",
       "minecraft:deep_lukewarm_ocean": "2021-03-19 22:39:47 +0100",
       "minecraft:savanna_plateau": "2021-03-19 20:21:29 +0100",
@@ -1492,6 +1514,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-07-19 17:09:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-05-22 22:20:49 +0200"
     },
     "done": true
   },
@@ -2019,6 +2047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-05-23 00:31:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2017-10-27 19:43:28 +0200"
@@ -2166,6 +2200,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-10-22 11:22:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-05-22 22:20:49 +0200"
     },
     "done": true
   },
@@ -2371,6 +2411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-05-22 21:42:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2017-07-04 19:55:26 +0200"
@@ -2410,6 +2456,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2017-07-26 17:59:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-05-22 22:20:49 +0200"
     },
     "done": true
   },
@@ -2770,6 +2822,18 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2017-07-04 19:58:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2021-05-23 02:11:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-05-22 22:20:49 +0200"
     },
     "done": true
   },
@@ -3175,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-05-22 22:20:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2021-03-11 09:26:53 +0100"
@@ -3368,6 +3438,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-23 02:11:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-02-23 15:16:51 +0100"
@@ -3449,6 +3525,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-10-22 11:22:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-05-23 00:31:59 +0200"
     },
     "done": true
   },
